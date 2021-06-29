@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
- <a href="mailto:hv.sawal@gmail.com"><img src="https://github.com/PrinceCrypto/PrinceCrypto/blob/master/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/PrinceCrypto"><img src="https://github.com/PrinceCrypto/PrinceCrypto/blob/master/github.svg" width="30px" alt="Recursion"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/harshvardhansawal/"><img src="https://github.com/PrinceCrypto/PrinceCrypto/blob/master/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://discord.com/users/PCrypto#8386"><img src="https://github.com/PrinceCrypto/PrinceCrypto/blob/master/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/hvsawal"><img src="https://github.com/PrinceCrypto/PrinceCrypto/blob/master/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
+ <a href="mailto:hv.sawal@gmail.com"><img src="https://github.com/HvSawal/HvSawal/blob/master/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/HvSawal"><img src="https://github.com/HvSawal/HvSawal/blob/master/github.svg" width="30px" alt="Recursion"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/harshvardhansawal/"><img src="https://github.com/HvSawal/HvSawal/blob/master/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+ <a href="https://discord.com/users/PCrypto#8386"><img src="https://github.com/HvSawal/HvSawal/blob/master/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/hvsawal"><img src="https://github.com/HvSawal/HvSawal/blob/master/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
 </p>
