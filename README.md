@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'> <samp>Software Developer | Music Enthusiast | Gamer</samp></p>
+<p align='center'> <samp>Software Developer | Backend | Java Spring Boot</samp></p>
 <br>
 
 <p align="center">
